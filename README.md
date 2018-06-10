@@ -26,7 +26,7 @@ Installation is not required
 
 
 ```
-Run 'can you break through.exe'
+Run 'Readopoly.exe'
 ```
 You will see a configuration menu for adjusting game specifications to match that of system's
 ![](img/config.PNG)
