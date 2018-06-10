@@ -35,6 +35,7 @@ You will see a configuration menu for adjusting game specifications to match tha
 Game Starts with a Menu, click on Start
 Read the Instructions before playing the game because the game is time based and failure
 to complete the level within time limit will cause you to start all over again.
+The game has 4 levels with 15 sub-levels in total. 
 
 ### Instructions
 <img src="img/ins.PNG" height="200">
