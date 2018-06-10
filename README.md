@@ -2,7 +2,7 @@
 
 # Readopoly 📚
 
-This game is designed to facilitate comprehension skills like scanning, skimming, vocabulary etc.
+This game is designed to facilitate comprehension skills like prediction, scanning, skimming & vocabulary.
 They have to read passages and find hints which may/may not be leading to the answer.
 This was a part of PhD Thesis by Dr. Malvika Sharma from Pillai College of Engineering, Panvel
 
