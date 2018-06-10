@@ -38,6 +38,8 @@ to complete the level within time limit will cause you to start all over again.
 The game has 4 levels with 15 sub-levels in total. 
 
 ### Instructions
+The user has to move around using the arrow keys or 'W, A, S, D' keys to move around.
+'Space' to jump.
 <img src="img/ins.PNG" height="200">
 
 ### Level1
