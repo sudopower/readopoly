@@ -32,7 +32,12 @@ You will see a configuration menu for adjusting game specifications to match tha
 ![](img/config.PNG)
 
 
-Game Starts with a Menu, click on Start to Load Level 1
+Game Starts with a Menu, click on Start
+Read the Instructions before playing the game because the game is time based and failure
+to complete the level within time limit will cause you to start all over again.
+
+### Instructions
+<img src="img/ins.PNG" height="200">
 
 ### Level1
 <img src="img/l1.PNG" height="200"> 
