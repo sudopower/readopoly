@@ -1,9 +1,9 @@
-# ALERT ! This is not source code for the game. It is the game.
+﻿# ALERT ! This is not source code for the game. It is the game.
 
 # Can You Break Through ? ʕง•ᴥ•ʔง
 
-This game is designed to facilitate students to identify communication barriers by observing
-a scene and identifying the communication barrier associated with it.
+This game is designed to facilitate comprehension skills like scanning, skimming, vocabulary etc.
+They have to read passages and find hints which may/may not be leading to the answer.
 This was a part of PhD Thesis by Dr. Malvika Sharma from Pillai College of Engineering, Panvel
 
 ## Getting Started
