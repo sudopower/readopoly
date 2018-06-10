@@ -1,6 +1,6 @@
 ﻿# ALERT ! This is not source code for the game. It is the game.
 
-# Can You Break Through ? ʕง•ᴥ•ʔง
+# Readopoly 📚
 
 This game is designed to facilitate comprehension skills like scanning, skimming, vocabulary etc.
 They have to read passages and find hints which may/may not be leading to the answer.
