@@ -6,7 +6,7 @@ This game is designed to facilitate comprehension skills like prediction, scanni
 They have to read passages and find hints which may/may not be leading to the answer.
 This was a part of PhD Thesis by Dr. Malvika Sharma from Pillai College of Engineering, Panvel
 
-## Getting Started
+## Getting Started 
  
 These instructions will get you a copy of the project up and running on your local machine.
 
