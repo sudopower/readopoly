@@ -22,7 +22,7 @@ Core 2 Duo or any higher grade processor
 
 ### Installing
 
-Installation is not required
+Installation is not required  
 
 
 ```
