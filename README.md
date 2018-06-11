@@ -1,5 +1,5 @@
-﻿# ALERT ! This is not source code for the game. It is the game.
-
+# ALERT ! This is not source code for the game. It is the game.
+ 
 # Readopoly 📚 
 
 This game is designed to facilitate comprehension skills like prediction, scanning, skimming & denotation.
