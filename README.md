@@ -1,4 +1,4 @@
-# ALERT ! This is not source code for the game. It is the game.
+
  
 # Readopoly 📚 
 
